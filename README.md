@@ -1,5 +1,5 @@
-# ConvFormer
-The source code for our submission **"ConvFormer: Revisiting Transformer for Sequential Recommendations"**.
+# ORALRec
+The source code for our submission **"Mixer Matters: Revisiting Self-attentive Token Mixer in Sequential Recommendation"**.
 
 
 ## Requirements
